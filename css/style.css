@@ -146,6 +146,7 @@ header {
 .errMsg {
   color: red;
   font-weight: bold;
+  font-size: 22px;
 }
 
 
